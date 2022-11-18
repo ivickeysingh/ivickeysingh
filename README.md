@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ivickeysingh, Software Engineer/Lead at PhonePe
+- 👀 I’m interested in engineering leadership roles
+- 🌱 I’m currently learning about people management
+- 💞️ I’m looking to collaborate on distributed system projects
+- 👷 Building distributed systems at scale
+- 📫 You can reach out to me on ivickeysingh@gmail.com
+- LinkedIn : https://www.linkedin.com/in/vickey-singh-50576a88/
